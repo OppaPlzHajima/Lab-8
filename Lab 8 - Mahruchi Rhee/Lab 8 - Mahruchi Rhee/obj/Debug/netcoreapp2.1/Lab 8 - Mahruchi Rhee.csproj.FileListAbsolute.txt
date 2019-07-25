@@ -1,0 +1,11 @@
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\bin\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.deps.json
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\bin\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.runtimeconfig.json
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\bin\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.runtimeconfig.dev.json
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\bin\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.dll
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\bin\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.pdb
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.csprojAssemblyReference.cache
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.csproj.CoreCompileInputs.cache
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.AssemblyInfoInputs.cache
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.AssemblyInfo.cs
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.dll
+C:\Users\mahru\source\repos\Lab 8 - Mahruchi Rhee\Lab 8 - Mahruchi Rhee\obj\Debug\netcoreapp2.1\Lab 8 - Mahruchi Rhee.pdb
